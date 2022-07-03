@@ -1,0 +1,10 @@
+{
+    "deno.enable": true,
+    "deno.lint": true,
+    "editor.suggest.showStatusBar": true,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": true,
+        "strings": true
+    }
+}
